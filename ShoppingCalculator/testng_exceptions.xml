@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ExceptionTests">
+    <test name="ExceptionGroup">
+        <groups>
+            <run>
+                <include name="exceptions"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.example.shopping.ShoppingCalculatorTest"/>
+        </classes>
+    </test>
+</suite>
