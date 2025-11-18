@@ -1,5 +1,4 @@
-#git add -f target/README.md
-git commit
+#target/
 
 # Compiled class file
 *.class
