@@ -1,4 +1,4 @@
-#git update-index --assupposee-unchanged <target>
+#target/
 
 # Compiled class file
 *.class
