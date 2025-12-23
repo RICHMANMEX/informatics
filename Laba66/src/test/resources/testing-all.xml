@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Wikipedia All Tests">
+
+    <test name="All Wikipedia Tests">
+        <classes>
+            <class name="com.example.tests.WikipediaTests"/>
+        </classes>
+    </test>
+
+</suite>
